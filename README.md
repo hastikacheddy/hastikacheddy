@@ -120,7 +120,7 @@ class Hastika:
 <a href="mailto:hastikacheddy06@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-hastikacheddy06@gmail.com-ff2e97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/hastika-c-2561a5199/">
   <img src="https://img.shields.io/badge/LINKEDIN-connect-05d9e8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
 </a>
 <a href="https://github.com/hastikacheddy">
