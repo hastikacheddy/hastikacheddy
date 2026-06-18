@@ -43,7 +43,7 @@ PID    OPERATION                       ORG                            STATUS
 
 ## `▸ Applications` — arsenal
 
-<sub>sorted like the kali menu · each category opens its toolset</sub>
+
 
 #### `01` ▸ Languages & Core
 ![](https://img.shields.io/badge/01-9fef00?style=for-the-badge&labelColor=9fef00&color=9fef00)
@@ -97,35 +97,7 @@ PID    OPERATION                       ORG                            STATUS
 ![](https://img.shields.io/badge/Threat_Modeling-0a0e14?style=for-the-badge&logoColor=ff2e97)
 ![](https://img.shields.io/badge/COAE_(in_progress)-0a0e14?style=for-the-badge&logoColor=ff2e97)
 
----
-
-## `./flags.sh --dump` — captured flags 🚩
-
-```bash
-└─$ cat root.txt
-[+] FLAG{ieee_publication__fraud_detection_with_ai}
-[+] FLAG{1st_class_honours}
-[+] FLAG{hackathon_1st_runner_up__developer}
-[+] FLAG{ibm_qiskit_advocate}
-[+] FLAG{mit_ai_alignment_fellow_2026}
-[+] FLAG{linkedin_community_top_voice}
-[+] 6/6 flags captured.  rank: ELITE
-```
-
----
-
-## `htop` — system telemetry
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hastikacheddy&show_icons=true&count_private=true&hide_border=true&bg_color=0a0e14&title_color=9fef00&text_color=a4b1cd&icon_color=9fef00" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hastikacheddy&layout=compact&hide_border=true&bg_color=0a0e14&title_color=9fef00&text_color=a4b1cd" alt="langs"/>
-
-<img src="https://streak-stats.demolab.com?user=hastikacheddy&hide_border=true&background=0a0e14&stroke=1f2d3d&ring=9fef00&fire=9fef00&currStreakNum=ffffff&currStreakLabel=9fef00&sideNums=ffffff&sideLabels=a4b1cd&dates=556677&dayLabels=9fef00" alt="streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hastikacheddy&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
-
-</div>
+\
 
 ---
 
@@ -134,19 +106,6 @@ PID    OPERATION                       ORG                            STATUS
 <a href="https://github.com/hastikacheddy/nyc-taxi-demand-forecasting">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hastikacheddy&repo=nyc-taxi-demand-forecasting&hide_border=true&bg_color=0a0e14&title_color=9fef00&text_color=a4b1cd&icon_color=9fef00" alt="featured repo"/>
 </a>
-
-`[ROOTED]` end-to-end MLOps platform · leakage-free LightGBM · GARCH + Monte-Carlo VaR · champion-challenger gate · drift loop · FastAPI + K8s · 6-stage CI/CD w/ Bandit · Semgrep · Trivy · cosign
-
----
-
-## `./certs.sh --verify`
-
-```bash
-[✓] Google DeepMind  —  AI Research Foundations   (78-course LLM / agentic / LLMOps)
-[✓] AWS              —  Cloud Architecture & SageMaker MLOps
-[✓] Google Cloud     —  Enterprise MLOps & Generative AI Systems Architecture
-[~] COAE             —  Certified Offensive AI Expert            [IN PROGRESS]
-```
 
 <!-- contribution snake — built by .github/workflows/snake.yml after first push -->
 <div align="center">
