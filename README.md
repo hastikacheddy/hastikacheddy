@@ -14,10 +14,10 @@
        .-"""-.         operator@hastika
       /       \        ─────────────────────────────────────────────
       | o   o |        OS ......... Founding AI / ML Engineer
-      |   ∆   |        HOST ....... Cagan Tech  ·  sole architect of the AI function
-       \ '-' /         KERNEL ..... MSc Artificial Intelligence (1st Class Hons)
+      |   ∆   |      
+       \ '-' /         KERNEL ..... MSc Artificial Intelligence 
        /'---'\         SHELL ...... python · pytorch · airflow · mlflow · qiskit
-      /       \        FOCUS ...... production ML · AI safety · quantum optimization
+      /       \        FOCUS ...... production ML · AI safety · quantum ML
      /__|___|__\       FLAGS ...... IEEE Published · MIT AI Alignment '26 · Qiskit Advocate
                        UPTIME ..... 2.5+ yrs founding & shipping AI in production
 ```
@@ -28,16 +28,16 @@
 
 PID    OPERATION                       ORG                            STATUS
 1337   ai_safety_fundamentals_fellow   MIT AI Alignment               UP  [~13% of 300]
-0x1F   quantum_ai_industry_fellow      The Washington Institute       UP  [~1.5% of 65k+]
+0x1F   quantum_ai_industry_fellow      WISER                          UP  [~1.5% of 65k+]
 0xBEE  quantum_chem_ml_contributor     Beerantum  (Oxford·KAIST·THU)  UP
-4001   founding_ml_engineer            Cagan Tech                     UP  [owns AI function]
+4001   founding_ml_engineer            Cagan Tech                     UP  
 0xEDU  msc_artificial_intelligence     University of Mauritius        2024 → 2026
 ```
 
 > I build AI/ML systems that survive real-world production constraints. A
 > penetration-testing background means the pipelines I ship aren't just functional —
 > they're **safe by design, maintainable, and future-ready**. I live in the gap
-> between cutting-edge research and systems an on-call engineer can actually trust.
+> between cutting-edge research and systems an engineer can actually trust.
 
 ---
 
