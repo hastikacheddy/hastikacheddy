@@ -28,7 +28,7 @@
 
 PID    OPERATION                       ORG                            STATUS
 1337   ai_safety_fundamentals_fellow   MIT AI Alignment               UP  [~13% of 300]
-0x1F   quantum_ai_industry_fellow      WISER                          UP  [~1.5% of 65k+]
+0x1F   quantum_ai_industry_fellow      WISER                          UP  [~1.3% of 73k+]
 0xBEE  quantum_chem_ml_contributor     Beerantum  (Oxford·KAIST·THU)  UP
 4001   founding_ml_engineer            Cagan Tech                     UP  
 0xEDU  msc_artificial_intelligence     University of Mauritius        2024 → 2026
